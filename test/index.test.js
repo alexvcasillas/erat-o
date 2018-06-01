@@ -30,19 +30,16 @@ test(`it shouldn't allow to calculate without a natural number as the parameter`
 
 test('it should return the prime numbers of 20', t => {
   const result = erat(20);
-  console.log('Result: ', result);
   t.deepEqual(result, [2, 3, 5, 7, 11, 13, 17, 19]);
 });
 
 test('it should return the prime numbers of 50', t => {
   const result = erat(50);
-  console.log('Result: ', result);
   t.deepEqual(result, [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]);
 });
 
 test('it should return the prime numbers of 100', t => {
   const result = erat(100);
-  console.log('Result: ', result);
   t.deepEqual(result, [
     2,
     3,
