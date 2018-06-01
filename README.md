@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/alexvcasillas/erat-o.svg?style=svg)](https://circleci.com/gh/alexvcasillas/erat-o)
 
-**Erat-O** is a the primality algorithm implementation.
+**Erat-O** is the primality test algorithm implementation.
 
 ## Installation
 
