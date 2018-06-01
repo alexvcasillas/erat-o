@@ -22,6 +22,6 @@ yarn add @alexvcasillas/erat-o
 
 ```
 import { erat } from '@alexvcasillas/erat-o';
-const result = erat(10);
-console.log(result); // [3, 7]
+const result = erat(20);
+console.log(result); // [2, 3, 5, 7, 11, 13, 17, 19]
 ```
